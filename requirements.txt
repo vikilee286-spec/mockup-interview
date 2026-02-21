@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit>=1.0.0
+google-generativeai>=0.4.1
+# 如果你还用到了其他包，比如 python-dotenv，也需要加在这里
+# python-dotenv>=1.0.0
